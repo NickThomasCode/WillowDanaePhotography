@@ -14,3 +14,47 @@ nav ul li a{
     text-decoration: none;
     color: black;
 }
+
+.bio{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+
+.bio p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: black;
+    font-size: 200%;
+}
+
+.bioText p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 34%;
+    
+}
+
+.interest {
+    position: absolute;
+    top: 55%;
+    left: 35%;
+}
+
+.interest p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 200%;
+}
+
+.intText p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 64%;
+}
