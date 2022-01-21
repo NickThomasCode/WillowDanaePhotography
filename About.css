@@ -1,6 +1,6 @@
 nav ul {
     list-style-type: none;
-    font-size: 300%;
+    font-size: 350%;
     position: absolute;
     top: 5%;
     left: 0%;
@@ -9,9 +9,12 @@ nav ul {
 
 nav ul li a{
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
     font-style: oblique;
     text-decoration: none;
-    color: black;
+    color: rgb(255, 200, 255);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black
 }
 
 .bio{
